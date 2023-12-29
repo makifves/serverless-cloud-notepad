@@ -4,7 +4,7 @@
   "author": "s0urce",
   "license": "MIT",
   "devDependencies": {
-    "wrangler": "3.13.1"
+    "wrangler": "3.22.1"
   },
   "private": true,
   "scripts": {
